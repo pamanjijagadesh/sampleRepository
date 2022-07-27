@@ -1,2 +1,2 @@
 # sampleRepository
-I'm trying to use GitHub
+print("Hello jambaakadipamba")
